@@ -1,0 +1,1 @@
+A place to hold the figures we create and download throughout the course.
