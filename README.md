@@ -18,7 +18,7 @@ Welcome to the 'Python for Economic and Social Data Science' class! This GitHub 
 
 ### Prearrival
 
-There are lots of `subdirectories' and files within this repository here which we will need. The first is the [prearrival.md](.prearrival.md) file. That contains everything you need to know to get the two main tools which will be using installed. In particular, we're going to need two things installed, and they should both work for Windows, Linux, and Mac all the same!
+There are lots of `subdirectories' and files within this repository here which we will need. The first is the [prearrival.md](./prearrival.md) file. That contains everything you need to know to get the two main tools which will be using installed. In particular, we're going to need two things installed, and they should both work for Windows, Linux, and Mac all the same!
 
 * **Python**: A powerful, versatile language used for data analysis, visualization, and machine learning, with extensive libraries like pandas, NumPy, and scikit-learn
 
