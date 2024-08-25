@@ -32,7 +32,7 @@ def update_selected_names(filename, selected_names):
 def main():
     names_file = './assets/student_list.csv'
     selected_file = './assets/selected_names.csv'
-    num_to_select = 3
+    num_to_select = 2
 
     # Read names from CSV file
     with open(names_file, 'r') as file:
