@@ -1,10 +1,8 @@
-# Python_for_DataScience
-
 <p align="center">
   <img src="./assets/python_logo.png" width="200"/>&nbsp; &nbsp; &nbsp;<img src="./assets/python_logo.png" width="200"/>&nbsp; &nbsp; &nbsp;<img src="./assets/python_logo.png" width="200"/>
 </p>
 
-## :page_facing_up: # Python for Economic and Social Data Science  :page_facing_up:
+## :page_facing_up: Python for Economic and Social Data Science  :page_facing_up:
 
 ![coverage](https://img.shields.io/badge/Teaching-yellow)
 [![Generic badge](https://img.shields.io/badge/Python-blue.svg)](https://shields.io/)
